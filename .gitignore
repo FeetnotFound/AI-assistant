@@ -1,0 +1,8 @@
+# ignores the virtual environment
+JESSE/
+txts_and_readmes/
+__pycache__/
+
+
+*.log
+*.txt
