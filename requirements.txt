@@ -1,0 +1,6 @@
+RealtimeSTT
+ollama
+pyaudio
+pygame
+TTS
+gpustat
